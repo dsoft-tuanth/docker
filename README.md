@@ -6,3 +6,4 @@
 
 [benefits of using docker](https://github.com/dsoft-tuanth/docker/blob/main/Advantages.md)
 
+[docker terminology](https://github.com/dsoft-tuanth/docker/blob/main/Terminology.md)
