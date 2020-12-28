@@ -5,7 +5,3 @@
 [Introduction to Docker](https://github.com/dsoft-tuanth/docker/blob/main/Introduction.md)
 
 [install docker](https://github.com/dsoft-tuanth/docker/blob/main/install.md)
-
-[benefits of using docker](https://github.com/dsoft-tuanth/docker/blob/main/Advantages.md)
-
-[docker terminology](https://github.com/dsoft-tuanth/docker/blob/main/Terminology.md)
